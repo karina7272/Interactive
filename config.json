@@ -1,29 +1,9 @@
 {
-  "image_path": "assets/diagram.png",
+  "image_path": "diagram.png",
   "dots": [
-    {
-      "x": 21,
-      "y": 24,
-      "title": "Data Acquisition",
-      "desc": "Structured & unstructured; AI/NLP, ML, GenAI, LLM; ETL & governance."
-    },
-    {
-      "x": 77,
-      "y": 24,
-      "title": "Risk Identification",
-      "desc": "Anomaly detection, fraud indicators, benchmarking, alerts & thresholds."
-    },
-    {
-      "x": 23,
-      "y": 73,
-      "title": "Analytical Modeling",
-      "desc": "Predictive analytics, risk scoring, dynamic learning, monitoring."
-    },
-    {
-      "x": 78,
-      "y": 68,
-      "title": "Auditor Judgment",
-      "desc": "Human interpretation, skepticism, ethics, final risk assessment."
-    }
+    { "x": 21, "y": 24, "title": "Data Acquisition", "desc": "Structured & unstructured; AI/NLP, ML, GenAI, LLM; ETL & governance." },
+    { "x": 77, "y": 24, "title": "Risk Identification", "desc": "Anomaly detection, fraud indicators, benchmarking, alerts & thresholds." },
+    { "x": 23, "y": 73, "title": "Analytical Modeling", "desc": "Predictive analytics, risk scoring, dynamic learning, monitoring." },
+    { "x": 78, "y": 68, "title": "Auditor Judgment", "desc": "Human interpretation, skepticism, ethics, final risk assessment." }
   ]
 }
