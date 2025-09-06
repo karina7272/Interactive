@@ -1,9 +1,39 @@
 {
-  "image_path": "diagram.png",
   "dots": [
-    { "x": 21, "y": 24, "title": "Data Acquisition", "desc": "Structured & unstructured; AI/NLP, ML, GenAI, LLM; ETL & governance." },
-    { "x": 77, "y": 24, "title": "Risk Identification", "desc": "Anomaly detection, fraud indicators, benchmarking, alerts & thresholds." },
-    { "x": 23, "y": 73, "title": "Analytical Modeling", "desc": "Predictive analytics, risk scoring, dynamic learning, monitoring." },
-    { "x": 78, "y": 68, "title": "Auditor Judgment", "desc": "Human interpretation, skepticism, ethics, final risk assessment." }
+    {
+      "id": "58aa1ab3b1fd",
+      "x": 25.1,
+      "y": 48.6,
+      "title": "Data Acquisition",
+      "desc": "Structured & unstructured; AI/NLP, ML, GenAI, LLM; ETL & governance."
+    },
+    {
+      "id": "3a634e4553c8",
+      "x": 72.7,
+      "y": 49,
+      "title": "Risk Identification",
+      "desc": "Anomaly detection, fraud indicators, benchmarking, alerts."
+    },
+    {
+      "id": "46e654d37f10",
+      "x": 49.6,
+      "y": 70.3,
+      "title": "Analytical Modeling",
+      "desc": "Predictive analytics, risk scoring, dynamic learning, monitoring."
+    },
+    {
+      "id": "44f33f884ac6",
+      "x": 24.6,
+      "y": 30.4,
+      "title": "Auditor Judgment",
+      "desc": "Interpretation, skepticism, ethics, final risk assessment."
+    },
+    {
+      "id": "59c0799b0f0c",
+      "x": 73.2,
+      "y": 30.4,
+      "title": "New dot",
+      "desc": "(edit me)"
+    }
   ]
 }
